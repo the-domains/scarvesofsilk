@@ -1,0 +1,28 @@
+name: scarvesofsilk
+favicon: null
+layout_spectrum: 0.7315691092517227
+typography_spectrum: 0.9715705004055053
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4763111777137965
+  lightness: 0.7574576530605555
+  saturation: 0.9488525001797825
+  rhythmicContrast: 0.3148073584306985
+purpose: []
